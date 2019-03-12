@@ -9,11 +9,6 @@ import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.github.rubensousa.bottomsheetbuilder.BottomSheetBuilder;
-import com.github.rubensousa.bottomsheetbuilder.BottomSheetMenuDialog;
-import com.github.rubensousa.bottomsheetbuilder.adapter.BottomSheetItemClickListener;
-import com.kcode.bottomlib.BottomDialog;
-
 import de.mrapp.android.bottomsheet.BottomSheet;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
